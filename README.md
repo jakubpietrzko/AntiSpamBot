@@ -14,14 +14,13 @@ This project is a Discord bot that filters and eliminates spam messages on serve
 
     Save the config.py file.
 
-5. Go to the Discord Developers website (https://discord.com/developers/applications) and access your application.
-6. In the left sidebar, click on "OAuth2".
-7. In the "Scopes" section, select bot.
-8. In the "Bot Permissions" section,  select the "Manage Messages" permission.
-9. Copy the generated OAuth2 URL in the "Scopes" section.
-10. Open the copied URL in your web browser.
-11. Choose the server where you want to install the bot and follow the on-screen prompts to authorize the bot's access to the server.
-12. To run the bot, execute the following command in your command line or terminal:
+5. On Discord Developers website (https://discord.com/developers/applications) in the left sidebar, click on "OAuth2".
+6. In the "Scopes" section, select bot.
+7. In the "Bot Permissions" section,  select the "Manage Messages" permission.
+8. Copy the generated OAuth2 URL in the "Scopes" section.
+9. Open the copied URL in your web browser.
+10. Choose the server where you want to install the bot and follow the on-screen prompts to authorize the bot's access to the server.
+11. To run the bot, execute the following command in your command line or terminal:
 
     
     python main.py
