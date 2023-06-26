@@ -12,7 +12,7 @@ async def on_ready():
 
 @bot.event
 async def on_message(message):
-    await on_message_handler(message,bot)  # Wywołanie funkcji on_message z innego modułu
+    await on_message_handler(message,bot) 
 
     await bot.process_commands(message)
 bot.run(TOKEN)
