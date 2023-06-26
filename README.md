@@ -27,4 +27,4 @@ This project is a Discord bot that filters and eliminates spam messages on serve
     python main.py
 
 
-    This will start the bot and it will be ready to operate on your Discord server.
+This will start the bot and it will be ready to operate on your Discord server.
