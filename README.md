@@ -5,6 +5,8 @@ In the demo video (demo_video.mkv), you can see testing for 6 phrases, where 3 a
 
 The purpose of this demonstration is to showcase the bot's ability to accurately identify and filter out spam messages while also distinguishing them from legitimate messages that may contain similar word patterns.
 
+
+The bot supports different languages, but it was trained on English data, so from other languages it simply translates into English before prediction
 # Install
 1. Install the required dependencies using the pip package manager.
 
