@@ -1,5 +1,10 @@
 # AntiSpamBot
-This project is a Discord bot that filters and eliminates spam messages on servers using the Naive Bayes machine learning model. The bot's demo video (demo_video.mkv) showcases its functionality. To run the code locally, you need to create a config.py file with your Discord token.
+This project is a Discord bot that filters and eliminates spam messages on servers using the Naive Bayes machine learning model. To run the code locally, you need to create a config.py file with your Discord token.
+
+In the demo video (demo_video.mkv), you can see testing for 6 phrases, where 3 are spam and 3 are non-spam but contain similar word expressions.
+
+The purpose of this demonstration is to showcase the bot's ability to accurately identify and filter out spam messages while also distinguishing them from legitimate messages that may contain similar word patterns.
+
 # Install
 1. Install the required dependencies using the pip package manager.
 
