@@ -2,7 +2,8 @@
 This project is a Discord bot that filters and eliminates spam messages on servers using the Naive Bayes machine learning model. The bot's demo video (demo_video.mkv) showcases its functionality. To run the code locally, you need to create a config.py file with your Discord token.
 # Install
 1. Install the required dependencies using the pip package manager.
-  pip install -r requirements.txt
+
+     pip install -r requirements.txt
 2. Create a config.py file in the main project directory.
 
 3. Go to the Discord Developers website (https://discord.com/developers/applications) and create a new application. Navigate to the "Bot" section and generate a token.
